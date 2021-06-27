@@ -11,7 +11,7 @@ import telegram
 import pickle
 import credentials
 
-my_token = '1653433444:AAHkjQ0Z0YGLbbhjo0kRXl5v1blxPENOkRQ'
+my_token = '' #add the telegram bot token
 namelist=[]
 dat=datetime.now()
 date= dat.strftime('%m-%d-%Y')
